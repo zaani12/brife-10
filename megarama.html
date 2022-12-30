@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/jquery-3.6.3.min.js"></script>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./megrama.css">
+    <title>megarama mangment page</title>
+</head>
+<body>
+    <header class="head">
+    <h1 class="h1">megarama movie night </h1>
+    <input id="SerchInput"  class="input-group flex-nowrap" class="form-control" type="text" placeholder="serch" class="rounded-2">
+    </header>
+     <table class="table">
+        <thead id="table_head" class="table-primary">
+            <tr>
+                <th scope="col" data-column="titre" data-order="desc">film</th>
+                <th scope="col" data-column="realisateur" data-order="desc">realisateur</th>
+                <th scope="col" data-column="duree" data-order="desc">durè</th>
+                <th scope="col" data-column="titre" data-order="desc">anne</th>
+                <th scope="col">poster</th>
+                <th scope="col">fistivals</th>
+                <th scope="col">actuers</th>
+            </tr>
+
+     </thead>
+     <tbody id="table_body">
+     </tbody>
+        
+     </table>
+    <script src="/megarama.js"></script>
+</body>
+</html>

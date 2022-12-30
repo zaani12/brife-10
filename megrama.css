@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+  
+    background-image: url(./backgraund/cinema-megarama.jpg)
+}
+#serch-nput{
+    width: 50%;
+}
+h1{
+    color: antiquewhite;
+    font-style: italic;
+    padding-bottom: 70%;
+    position: relative;
+    position: 30%,30%;
+}
+#SerchInput{
+    height: 50px;
+    width: 520px;
+    border-radius: 5%;
+    position: 50,50;
+}

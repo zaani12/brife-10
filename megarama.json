@@ -1,0 +1,243 @@
+ [
+         
+     {
+
+        "titre": "glass Onion: une histoire à couteaux tirés ",
+        "realisateur" : "rian Johnson",
+        "duree": 120 ,
+        "annee" : 2022,
+        "poster" : "/postrs/onion.jpg",
+        "festivals" :["Cannes","Oscars"] ,
+        "acteur" :[
+            {"nom": "Madelyn",
+          "prenom": "Cline",
+          "nationalite":"Caroline du Sud, États-Unis"
+        },
+         {
+             "non": "Kate",
+             "prenom": "Hudson",
+             "nationalite":"Californie, États-Unis" 
+          },
+          {
+             "nom": "Daniel",
+             "prenom": " Craig",
+             "nationalite":"Chester, Cheshire, England, UK" 
+          }
+        
+          ]
+        },
+        {
+
+            "titre": "x",
+            "realisateur":"marTi Westk Mylod",
+            "duree": 95 ,
+            "annee" : 2022,
+            "poster" : "./postrs/x.jpg",
+            "festivals" :["Oscars"] ,
+            "acteur" :[
+                {"nom": "Mia",
+              "prenom": "Goth",
+              "nationalite":" Angleterre, Royaume-Un"
+            },
+             {
+                 "nom": "Jenna",
+                 "prenom": "Ortega",
+                 "nationalite":"Coachella Valley, California, USA"
+              },
+              {
+                 "nom": "Brittany",
+                 "prenom": "Snow",
+                 "nationalite":"Floride, États-Unis" 
+              }
+            
+              ]
+            },
+            {
+
+                "titre": "the Northman",
+                "realisateur" : "robert Eggers",
+                "duree": 137 ,
+                "annee" : 2022,
+                "poster" : "./postrs/thr_northman.jpg",
+                "festivals" :["Cannes"] ,
+                "acteur" :[
+                    {"nom": "Alexander",
+                  "prenom": "Skarsgård",
+                  "nationalite":"  Stockholm,Sweden"
+                },
+                 {
+                     "nom": "jenna",
+                     "prenom": "Ortega",
+                     "nationalite":"Coachella Valley, California, USA"
+                  },
+                  {
+                     "nom": "brittany",
+                     "prenom": " Snow",
+                     "nationalite":"Floride, États-Unis" 
+                  }
+                
+                  ]
+                },
+                {
+
+                  "titre": "the Batman",
+                  "realisateur" : "matt Reeves",
+                  "duree": 176 ,
+                  "annee" : 2022,
+                  "poster" : "./postrs/batman.jpg",
+                  "festivals" :[null] ,
+                  "acteur" :[
+                      {"nom": "Robert",
+                    "prenom": "Pattinson",
+                    "nationalite":"Barnes, London, England, UK"
+                  },
+                   {
+                       "nom": "Kravitz",
+                       "prenom": "Zoë ",
+                       "nationalite":"California, USA"
+                    },
+                    {
+                       "nom": "Wright",
+                       "prenom": "Jeffrey ",
+                       "nationalite":"États-Unis" 
+                    }
+                  
+                    ]
+                  },
+                  {
+
+                     "titre": "thor love and thaunder",
+                     "realisateur" : "taika waititi",
+                     "duree": 118 ,
+                     "annee" : 2020,
+                     "poster" : "./postrs/thor.jpg",
+                     "festivals" :["Cannes"] ,
+                     "acteur" :[
+                         {"nom": "chris",
+                       "prenom": "hemsworth",
+                       "nationalite":"australie"
+                     },
+                      {
+                          "nom": "natalie",
+                          "prenom": "portman",
+                          "nationalite":"palastain"
+                       },
+                       {
+                          "nom": "christian",
+                          "prenom": "bale",
+                          "nationalite":"romame_uni" 
+                       }
+                     
+                       ]
+                     },
+                     {
+
+                        "titre": "top gun maverick",
+                        "realisateur" : "joseph kosinski",
+                        "duree": 130 ,
+                        "annee" : 2019,
+                        "poster" : "./postrs/top.jpg",
+                        "festivals" :["Cannes"] ,
+                        "acteur" :[
+                            {"nom": "chrtom",
+                          "prenom": "cruise",
+                          "nationalite":"new york, usa"
+                        },
+                         {
+                             "nom": "monica",
+                             "prenom": "conbarbaronlly",
+                             "nationalite":"californie"
+                          },
+                          {
+                             "nom": "christian",
+                             "prenom": "bale",
+                             "nationalite":"California, USA" 
+                          }
+                        
+                          ]
+                        },
+                        {
+
+                           "titre": "evrything everywher all at once",
+                           "realisateur" : "dan kxan",
+                           "duree": 139 ,
+                           "annee" : 2018,
+                           "poster" : "./postrs/every.jpg",
+                           "festivals" :["Oscars"] ,
+                           "acteur" :[
+                               {"nom": "michelle",
+                             "prenom": "yeoh",
+                             "nationalite":"malaisa"
+                           },
+                            {
+                                "nom": "stephanie",
+                                "prenom": "hsu",
+                                "nationalite":"los Angeles,usa"
+                             },
+                             {
+                                "nom": "ke huy",
+                                "prenom": "quan",
+                                "nationalite":"ventam" 
+                             }
+                           
+                             ]
+                           },
+                           {
+
+                              "titre": "mort sur le nil",
+                              "realisateur" : "kenneth brangh",
+                              "duree": 127,
+                              "annee" : 2017,
+                              "poster" : "./postrs/nil.jpg",
+                              "festivals" :[null] ,
+                              "acteur" :[
+                                  {"nom": "tom",
+                                "prenom": "batelan",
+                                "nationalite":"canda"
+                              },
+                               {
+                                   "nom": "annette",
+                                   "prenom": "bening",
+                                   "nationalite":"los Angeles,usa"
+                                },
+                                {
+                                   "nom": "kenneth",
+                                   "prenom": "branagh",
+                                   "nationalite":"Caroline du Sud, États-Unis" 
+                                }
+                              
+                                ]
+                              },
+                              {
+
+                                 "titre": "avatar",
+                                 "realisateur" : "james Cameron",
+                                 "duree": 180 ,
+                                 "annee" : 2016,
+                                 "poster" : "./postrs/avatar.jpg",
+                                 "festivals" :["Cannes"] ,
+                                 "acteur" : 
+                                 [
+                                   {
+                                   "nom": "Sam",
+                                   "prenom": "Worthington",
+                                   "nationalite":" England, UK" 
+                                  },
+                                  {
+                                      "nom": "Zoe ",
+                                      "prenom": "Saldana",
+                                      "nationalite":" Passaic, New Jersey, USA" 
+                                   },
+                                   {
+                                      "nom": "Kate ",
+                                      "prenom": " Winslet",
+                                      "nationalite":" Reading, Berkshire, England, UK" 
+                                   }
+                                 ]
+                             }
+
+
+                        
+         
+     
+    ]
